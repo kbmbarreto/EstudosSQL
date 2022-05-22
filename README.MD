@@ -1,4 +1,4 @@
-# EstudosJava
+# Estudos em SQL
 
 <p>Diretório contendo meus estudos com scripts SQL.</p>
 
